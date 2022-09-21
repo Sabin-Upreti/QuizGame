@@ -26,7 +26,7 @@ public class SecondInterface extends Frame implements ActionListener, WindowList
         panel.setSize(300,100);
         panel.setLocation(200,200);
         gbl = new GridLayout(3,2);
-       
+    //    fdfjasj
         
         
         panel.setLayout(gbl);
