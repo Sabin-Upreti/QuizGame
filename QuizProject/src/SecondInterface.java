@@ -86,6 +86,9 @@ public class SecondInterface extends Frame implements ActionListener, WindowList
     }
 
 
+    /* (non-Javadoc)
+     * @see java.awt.event.WindowListener#windowClosing(java.awt.event.WindowEvent)
+     */
     @Override
     public void windowClosing(WindowEvent e) {
         // TODO Auto-generated method stub
